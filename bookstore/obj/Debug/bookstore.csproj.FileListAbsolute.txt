@@ -1,0 +1,74 @@
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\bin\Debug\bookstore.exe.config
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\bin\Debug\bookstore.exe
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\bin\Debug\bookstore.pdb
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\ResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form1.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Properties.Resources.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.csproj.GenerateResource.Cache
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.exe
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.pdb
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form2.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form3.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form4.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form5.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form6.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form7.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form8.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form9.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form10.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form11.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form12.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form13.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form14.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form15.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form16.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\bin\Debug\IrisSkin2.dll
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form17.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form18.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form19.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form20.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form21.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form22.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form23.resources
+D:\我的文档\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Form24.resources
+H:\数据库实训\bookstore\bookstore\bin\Debug\bookstore.exe.config
+H:\数据库实训\bookstore\bookstore\obj\Debug\bookstore.exe
+H:\数据库实训\bookstore\bookstore\obj\Debug\bookstore.pdb
+E:\数据库实训\bookstore\bookstore\bin\Debug\bookstore.exe.config
+E:\数据库实训\bookstore\bookstore\obj\Debug\bookstore.exe
+E:\数据库实训\bookstore\bookstore\obj\Debug\bookstore.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\bin\Debug\bookstore.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\bin\Debug\bookstore.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\bin\Debug\bookstore.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.登录.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.会员删除.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.会员信息查看.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.权限设置.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.更改密码.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.锁定系统.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.系统备份.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.系统恢复.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.会员查询.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.会员等级详情.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.主界面.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.计算详情.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.销售统计.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.用户注册.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.用户删除.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.用户信息查看.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.关于.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.图书信息更改.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.图书信息删除.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.图书信息查看.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.图书查询.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.会员添加.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.图书信息添加.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.销售图书.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.用户查询.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.会员更改.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\obj\Debug\bookstore.用户更改.resources

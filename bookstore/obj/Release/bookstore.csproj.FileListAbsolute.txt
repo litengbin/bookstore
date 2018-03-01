@@ -1,0 +1,1 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bookstore\bookstore\bin\Release\bookstore.exe.config

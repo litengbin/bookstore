@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8BADC515-554E-4137-8390-9A9DB9F3BC1B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>bookstore</RootNamespace>
+    <AssemblyName>bookstore</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IrisSkin2, Version=2006.3.22.45, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>F:\360安全浏览器下载\IrisSkin2sskpages\皮肤控件\IrisSkin2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CONN.cs" />
+    <Compile Include="会员更改.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="会员更改.Designer.cs">
+      <DependentUpon>会员更改.cs</DependentUpon>
+    </Compile>
+    <Compile Include="用户更改.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="用户更改.Designer.cs">
+      <DependentUpon>用户更改.cs</DependentUpon>
+    </Compile>
+    <Compile Include="用户查询.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="用户查询.Designer.cs">
+      <DependentUpon>用户查询.cs</DependentUpon>
+    </Compile>
+    <Compile Include="登录.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="登录.Designer.cs">
+      <DependentUpon>登录.cs</DependentUpon>
+    </Compile>
+    <Compile Include="会员删除.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="会员删除.Designer.cs">
+      <DependentUpon>会员删除.cs</DependentUpon>
+    </Compile>
+    <Compile Include="会员信息查看.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="会员信息查看.Designer.cs">
+      <DependentUpon>会员信息查看.cs</DependentUpon>
+    </Compile>
+    <Compile Include="权限设置.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="权限设置.Designer.cs">
+      <DependentUpon>权限设置.cs</DependentUpon>
+    </Compile>
+    <Compile Include="更改密码.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="更改密码.Designer.cs">
+      <DependentUpon>更改密码.cs</DependentUpon>
+    </Compile>
+    <Compile Include="锁定系统.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="锁定系统.Designer.cs">
+      <DependentUpon>锁定系统.cs</DependentUpon>
+    </Compile>
+    <Compile Include="系统备份.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="系统备份.Designer.cs">
+      <DependentUpon>系统备份.cs</DependentUpon>
+    </Compile>
+    <Compile Include="系统恢复.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="系统恢复.Designer.cs">
+      <DependentUpon>系统恢复.cs</DependentUpon>
+    </Compile>
+    <Compile Include="销售图书.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="销售图书.Designer.cs">
+      <DependentUpon>销售图书.cs</DependentUpon>
+    </Compile>
+    <Compile Include="会员查询.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="会员查询.Designer.cs">
+      <DependentUpon>会员查询.cs</DependentUpon>
+    </Compile>
+    <Compile Include="会员等级详情.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="会员等级详情.Designer.cs">
+      <DependentUpon>会员等级详情.cs</DependentUpon>
+    </Compile>
+    <Compile Include="主界面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="主界面.Designer.cs">
+      <DependentUpon>主界面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="计算详情.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="计算详情.Designer.cs">
+      <DependentUpon>计算详情.cs</DependentUpon>
+    </Compile>
+    <Compile Include="销售统计.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="销售统计.Designer.cs">
+      <DependentUpon>销售统计.cs</DependentUpon>
+    </Compile>
+    <Compile Include="用户注册.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="用户注册.Designer.cs">
+      <DependentUpon>用户注册.cs</DependentUpon>
+    </Compile>
+    <Compile Include="用户删除.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="用户删除.Designer.cs">
+      <DependentUpon>用户删除.cs</DependentUpon>
+    </Compile>
+    <Compile Include="用户信息查看.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="用户信息查看.Designer.cs">
+      <DependentUpon>用户信息查看.cs</DependentUpon>
+    </Compile>
+    <Compile Include="关于.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="关于.Designer.cs">
+      <DependentUpon>关于.cs</DependentUpon>
+    </Compile>
+    <Compile Include="图书信息添加.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="图书信息添加.Designer.cs">
+      <DependentUpon>图书信息添加.cs</DependentUpon>
+    </Compile>
+    <Compile Include="图书信息更改.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="图书信息更改.Designer.cs">
+      <DependentUpon>图书信息更改.cs</DependentUpon>
+    </Compile>
+    <Compile Include="图书信息删除.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="图书信息删除.Designer.cs">
+      <DependentUpon>图书信息删除.cs</DependentUpon>
+    </Compile>
+    <Compile Include="图书信息查看.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="图书信息查看.Designer.cs">
+      <DependentUpon>图书信息查看.cs</DependentUpon>
+    </Compile>
+    <Compile Include="图书查询.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="图书查询.Designer.cs">
+      <DependentUpon>图书查询.cs</DependentUpon>
+    </Compile>
+    <Compile Include="会员添加.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="会员添加.Designer.cs">
+      <DependentUpon>会员添加.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="会员更改.resx">
+      <DependentUpon>会员更改.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="用户更改.resx">
+      <DependentUpon>用户更改.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="用户查询.resx">
+      <DependentUpon>用户查询.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="登录.resx">
+      <DependentUpon>登录.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="会员删除.resx">
+      <DependentUpon>会员删除.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="会员信息查看.resx">
+      <DependentUpon>会员信息查看.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="权限设置.resx">
+      <DependentUpon>权限设置.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="更改密码.resx">
+      <DependentUpon>更改密码.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="锁定系统.resx">
+      <DependentUpon>锁定系统.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="系统备份.resx">
+      <DependentUpon>系统备份.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="系统恢复.resx">
+      <DependentUpon>系统恢复.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="销售图书.resx">
+      <DependentUpon>销售图书.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="会员查询.resx">
+      <DependentUpon>会员查询.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="会员等级详情.resx">
+      <DependentUpon>会员等级详情.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="主界面.resx">
+      <DependentUpon>主界面.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="计算详情.resx">
+      <DependentUpon>计算详情.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="销售统计.resx">
+      <DependentUpon>销售统计.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="用户注册.resx">
+      <DependentUpon>用户注册.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="用户删除.resx">
+      <DependentUpon>用户删除.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="用户信息查看.resx">
+      <DependentUpon>用户信息查看.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="关于.resx">
+      <DependentUpon>关于.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="图书信息添加.resx">
+      <DependentUpon>图书信息添加.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="图书信息更改.resx">
+      <DependentUpon>图书信息更改.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="图书信息删除.resx">
+      <DependentUpon>图书信息删除.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="图书信息查看.resx">
+      <DependentUpon>图书信息查看.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="图书查询.resx">
+      <DependentUpon>图书查询.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="会员添加.resx">
+      <DependentUpon>会员添加.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
